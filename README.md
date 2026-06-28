@@ -45,7 +45,7 @@ A short demonstration showing the dashboard's interactive filters and visualizat
 
 > **Click below to watch the demo**
 
-▶ **[Dashboard Demo](Assets/Dashboard%20Demo.mp4)**
+▶ **[Dashboard Demo](Assets)**
 
 ---
 
