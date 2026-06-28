@@ -45,7 +45,7 @@ A short demonstration showing the dashboard's interactive filters and visualizat
 
 > **Click below to watch the demo**
 
-▶ **[Dashboard Demo](Assets)**
+▶ **[Dashboard Demo](Assets/Dashboard demo.mp4)**
 
 ---
 
@@ -559,64 +559,6 @@ Expand marketing efforts in high-performing cities while analyzing low-performin
 ## 📦 Inventory Planning
 
 Maintain higher inventory levels for top-selling products before major gifting occasions to prevent stock shortages and maximize revenue.
-
----
-
-# 🖼 Dashboard Screenshots
-
-## Dashboard Overview
-
-```md
-![Dashboard](Images/Dashboard.png)
-```
-
----
-
-## Revenue by Occasion
-
-```md
-![Revenue by Occasion](Images/Revenue%20by%20Occasion.png)
-```
-
----
-
-## Revenue by Product Category
-
-```md
-![Revenue by Category](Images/Revenue%20by%20Category.png)
-```
-
----
-
-## Revenue by Month
-
-```md
-![Revenue by Month](Images/Revenue%20by%20Months.png)
-```
-
----
-
-## Revenue by Order Hour
-
-```md
-![Revenue by Order Hour](Images/Revenue%20by%20Order%20Hours.png)
-```
-
----
-
-## Top Products
-
-```md
-![Top Products](Images/Top%205%20Products%20by%20Revenue.png)
-```
-
----
-
-## Top Cities
-
-```md
-![Top Cities](Images/Top%2010%20Cities%20by%20Orders.png)
-```
 
 ---
 
