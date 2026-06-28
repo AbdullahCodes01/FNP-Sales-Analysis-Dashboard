@@ -53,7 +53,7 @@ A short demonstration showing the dashboard's interactive filters and visualizat
 
 <p align="center">
 
-<img src="Images/Dashboard.png" width="1000">
+<img src="images/Dashboard.png" width="1000">
 
 </p>
 
