@@ -809,11 +809,9 @@ https://github.com/AbdullahCodes01
 
 ### LinkedIn
 
-> Add your LinkedIn profile link here.
+https://www.linkedin.com/in/abdullah-764333380/
 
-Example:
 
-https://linkedin.com/in/your-linkedin
 
 ---
 
